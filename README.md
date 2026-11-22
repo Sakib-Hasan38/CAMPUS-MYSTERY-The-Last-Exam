@@ -168,29 +168,20 @@ Download and install Python from:
 
 https://www.python.org/downloads/
 
-### 2. Clone the Repository
 
-Open your terminal and run:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
-
-### 3. Open the Project Folder
+### 2. Open the Project Folder
 
 ```bash
 cd campus-mystery
 ```
 
-### 4. Install Pygame
+### 3. Install Pygame
 
 ```bash
 pip install pygame
 ```
 
-### 5. Run the Game
+### 4. Run the Game
 
 After development, run the main Python file:
 
