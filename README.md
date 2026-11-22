@@ -289,4 +289,6 @@ The completed source code, README.md file, and gameplay screenshots will be uplo
 CAMPUS MYSTERY: The Last Exam will combine university-themed storytelling, exploration, puzzle-solving, and interactive gameplay. The project will demonstrate practical applications of computer graphics through a 2D adventure game.
 
 The game will be developed individually using Python and Pygame. Each feature will be implemented and tested step by step, and the student will understand the source code and be able to explain the development process.
+
+
 ##14.Screenshots
